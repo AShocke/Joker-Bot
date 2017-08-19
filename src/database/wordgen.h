@@ -1,0 +1,10 @@
+/* =============
+ * Joker Bot
+ * ============= */
+
+#ifndef WORDGEN
+#define WORDGEN
+
+#define REDDIT_FILE = "MASTER_REDDIT.joke"
+
+#endif
